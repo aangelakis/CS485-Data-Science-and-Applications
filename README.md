@@ -33,7 +33,3 @@ Applies the Augmented Dickey-Fuller (ADF) test to assess stationarity in time se
 **Alexandros Angelakis**  
 University of Crete, Department of Computer Science  
 `angelakis@csd.uoc.gr`
-
----
-
-Feel free to fork, clone, and explore each notebook. Contributions and suggestions are welcome!
